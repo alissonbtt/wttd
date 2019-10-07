@@ -2,6 +2,7 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/alissonbtt/wttd.svg?branch=master)](https://travis-ci.org/alissonbtt/wttd)
 
 ## Como desenvolver?
 
