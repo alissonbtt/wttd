@@ -3,7 +3,6 @@
 Sistema de Eventos encomendado pela Morena.
 
 
-
 ## Como desenvolver?
 
 1. Clone o repositório.
