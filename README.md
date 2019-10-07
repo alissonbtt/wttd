@@ -2,7 +2,7 @@
 
 Sistema de Eventos encomendado pela Morena.
 
-[![Build Status](https://travis-ci.org/henriquebastos/eventex.svg?branch=master)](https://travis-ci.org/henriquebastos/eventex)
+
 
 ## Como desenvolver?
 
