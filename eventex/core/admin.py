@@ -1,6 +1,6 @@
 from django.contrib import admin
 from django.utils.html import format_html
-from .models import Speaker, Contact, Talk
+from .models import Speaker, Contact, Talk, Course
 
 
 class ContactInline(admin.TabularInline):
@@ -40,5 +40,6 @@ class SpeakerModelAdmin(admin.ModelAdmin):
 
 admin.site.register(Speaker, SpeakerModelAdmin)
 admin.site.register(Talk)
+admin.site.register(Course)
 
 # Register your models here.
