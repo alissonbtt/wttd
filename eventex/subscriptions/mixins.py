@@ -11,7 +11,6 @@ class EmailCreateMixin:
     email_from = settings.DEFAULT_FROM_EMAIL
     email_to = None
 
-
     def send_mail(self):
         # Send Email
         template_name = self.get_email_tamplate_name()
