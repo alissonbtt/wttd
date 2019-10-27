@@ -34,7 +34,7 @@ class EmailCreateMixin:
         context = dict(kwargs)
         context.setdefault(self.get_email_context_name(), self.object)
         return context
-w
+
     def get_email_context_name(self):
         if self.email_context_name:
             return self.email_context_name
